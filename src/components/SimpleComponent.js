@@ -1,5 +1,6 @@
 // Code SimpleComponent Here
 
+import React from 'react';
 
 class DumbComponent extends Component {
   constructor(props) {
